@@ -5,3 +5,10 @@ scikit-learn==1.6.1
 seaborn==0.13.2
 matplotlib
 numpy==2.0.2
+
+# fastapi
+# uvicorn
+# tensorflow-cpu==2.16.1
+# numpy<2.0.0
+# Pillow
+# python-multipart
